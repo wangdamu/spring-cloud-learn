@@ -1,2 +1,4 @@
 rootProject.name = 'spring-cloud-learn'
 include("eureka-service")
+include("euraka-client")
+include("ribbon-client")
